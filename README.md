@@ -1,10 +1,22 @@
----
-description: gdfgdfgdfgf
----
-
 # What is MyProduct?
 
+{% hint style="info" %}
+fgdsfgd
+{% endhint %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+fdsfsd
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% content-ref url="fundamentals/tasks.md" %}
+[tasks.md](fundamentals/tasks.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 ****
