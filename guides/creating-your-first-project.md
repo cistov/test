@@ -6,7 +6,13 @@
 
 ## The basics
 
+```kotlin
+// hello world
+```
+
 Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
+
+<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ## Creating a project
 
