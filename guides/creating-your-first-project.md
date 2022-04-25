@@ -16,4 +16,10 @@ Projects are containers for task lists. Think of them as a library for everythin
 
 ## Creating a project
 
+|       |       |       |
+| ----- | ----- | ----- |
+| col 1 | col 2 | col 3 |
+|       |       |       |
+|       |       |       |
+
 Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
