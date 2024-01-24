@@ -1,3 +1,6 @@
+const { configDefaults } = require('@genesislcap/foundation-testing/e2e');
+console.log('seed dependency test', configDefaults);
+
 /**
  * Signature is `async (data: inquirer.Answers, utils: SeedConfigurationUtils)`
  */
